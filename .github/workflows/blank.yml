@@ -1,5 +1,4 @@
 name: cobrinha
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -14,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Kethellin
+          github_user_name: Kethellin #seu username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
