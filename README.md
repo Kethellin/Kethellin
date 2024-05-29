@@ -1,5 +1,20 @@
 ## Bem vindo! eu sou a Kethellin 👋
 
+<p> 💻 Estudante de engenharia de software </p>
+<p> 🖨 Técnica em informática para internet </p>
+
+##
+
+🧩 Hard Skills
+
+##
+
+🤲 Soft Skills
+
+##
+
+⚡ Estatísticas do github
+
 <div>
   <a href="https://github.com/gsfgabi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethellin&layout=compact&langs_count=7&theme=dracula"/>
