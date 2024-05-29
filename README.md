@@ -8,7 +8,7 @@
     
 ### 📫 Como me encontrar:
 <div>
-  <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a>   
 </div>
-![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg) -->
