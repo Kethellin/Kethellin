@@ -6,14 +6,24 @@
 ##
 
 🧩 Hard Skills
-
-<div>
-    <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
+    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ##
 
 🤲 Soft Skills
+
+##
+
+📚 Estudando
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ##
 
@@ -28,8 +38,8 @@
 ### 📫 Como me encontrar:
 
 <div>
-  <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank
+  <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank>
   </a>
   <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a> 
 </div>
-<!-- ![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
