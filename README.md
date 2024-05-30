@@ -42,4 +42,4 @@
   <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a>
 </div>
 
-![snake Animation](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
