@@ -40,6 +40,6 @@
 <div>
   <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank>
   </a>
-  <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a>
+    ![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
 </div>
-![snake gif](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
