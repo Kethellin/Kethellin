@@ -30,16 +30,16 @@
 ⚡ Estatísticas do github
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethellin&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kethellin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethellin&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kethellin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 ### 📫 Como me encontrar:
 
 <div>
-  <a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank>
-  </a>
-  <a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a>
+<a href="mailto:Kethellin.kethellinpereirav@gmail.com" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank></a>
+<a href="https://www.linkedin.com/in/kethellin-pereira/" target="_blank"><img height="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kethellin/Kethellin/blob/output/github-contribution-grid-snake.svg)
+</div>
